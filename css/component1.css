@@ -35,11 +35,12 @@
 
 .main-title1{
 	color: #7f8c8d;
-	/* position: absolute; */
+	position: absolute;
 	text-align: center;
 	/* align-items: center; */
-	/* margin-top: 3%; */
-	/* margin-left: 20%; */
+	margin-top: 3%;
+	margin-left: 30%;
+	margin-right: 10%;
 }
 
 .demo-1 .main-title{
