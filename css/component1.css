@@ -30,14 +30,14 @@
 	color: #f9f1e9;
 	text-align: center;
 	left: 10.5%;	
-	transform: translate3d(-50%,-50%,0);
+	transform: translate3d(-0%,-0%,0);
 }
 
 .main-title1{
 	color: #7f8c8d;
 	position: absolute;
 	text-align: center;
-	align-items: center;
+	/* align-items: center; */
 	margin-top: 3%;
 	margin-left: 20%;
 }
